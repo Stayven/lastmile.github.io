@@ -1,7 +1,7 @@
 baseURL = 'https://lastmile.github.io/'
 languageCode = 'en-us'
 title = 'Last Mile Design'
-theme = 'spectral'
+theme = 'spectral-theme'
 
 [params]
 fancyTitle = "Last Mile" # title for frontpage, may include image
