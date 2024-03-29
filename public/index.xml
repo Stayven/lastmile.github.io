@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Last Mile Design</title>
-    <link>http://localhost:1313/</link>
+    <link>https://lastmile.design/</link>
     <description>Recent content on Last Mile Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Mar 2024 20:55:26 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lastmile.design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/posts/intro/</link>
+      <link>https://lastmile.design/posts/intro/</link>
       <pubDate>Thu, 28 Mar 2024 20:55:26 +0100</pubDate>
-      <guid>http://localhost:1313/posts/intro/</guid>
+      <guid>https://lastmile.design/posts/intro/</guid>
       <description>My name is Steven Nijman.</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL = 'https://lastmile.github.io/'
+baseURL = 'https://lastmile.design/'
 languageCode = 'en-us'
 title = 'Last Mile Design'
 theme = 'spectral-theme'
